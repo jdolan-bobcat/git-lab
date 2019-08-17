@@ -49,3 +49,25 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+Answer 8: 
+commit ec9ca730c41ece318c3bfb10d1b612edc60f6d13
+Author: John Dolan <dolan@ohio.edu>
+Date:   Sat Aug 17 08:25:08 2019 -0400
+
+    Initial Comment
+
+commit 20451736b7f7fc96491af10225fac75a224140cb
+Author: John Dolan <dolan@ohio.edu>
+Date:   Wed Aug 14 13:24:53 2019 -0400
+
+    Initial commit
+
+
+
+Answer 9:
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+So this is telling me that my repository is updated on the github 
+website.
+
